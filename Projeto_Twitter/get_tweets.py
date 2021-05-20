@@ -7,11 +7,11 @@ from tweepy import OAuthHandler, Stream, StreamListener
 from datetime import datetime
 
 # Cadastrar as chaves de acesso
-consumer_key = "S4b4hFoBbHwgnhoyvzfDUMC5w"
-consumer_secret = "GdyPEpND1T8YNENJthze6vtNvXrK1eJeUTZ3XvmLML086Hi7z9"
+consumer_key = ""
+consumer_secret = ""
 
-access_token = "982286854304169984-DVGpvBBEQIplXcRAicfYeJvfb6zmoZ6"
-access_token_secret = "tUxwMhUJwAXfFboYhTRw2atIfS2XZyswKOeDSgN9s8xlY"
+access_token = ""
+access_token_secret = ""
 
 # Definir um arquivo de saída para armazenar os tweets coletados
 
