@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Heliton\\miniconda3\\envs\\python_fundamentos_dsa\\python.exe"
+    "python.pythonPath": "C:\\Users\\Heliton\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
