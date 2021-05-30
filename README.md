@@ -566,8 +566,7 @@ In [23]:
 # append, adiciona outra tabela se já existir uma tabela de mesmo nome
 report.to_sql('covid_19', con=engine, index=False, if_exists='append')
 ```
-
-![image-20210530130611428](C:\Users\Heliton\AppData\Roaming\Typora\typora-user-images\image-20210530130611428.png)
+![img](https://imgur.com/NVYIDDv)
 
 ## Ingestão dos dados do relatório para o MySQL
 
