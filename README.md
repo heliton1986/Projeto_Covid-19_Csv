@@ -525,7 +525,7 @@ report.to_csv('./covid-19/report_covid-19.csv')
 <img src="C:\Users\Heliton\Documents\GitHub\Projeto_1_Uniasselvi\images\1.PNG" alt="img1"/>
 ```
 
-
+![img](https://imgur.com/NVYIDDv)
 
 ## Ingestão dos dados do relatório para o Postgres
 
