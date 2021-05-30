@@ -521,9 +521,9 @@ In [20]:
 report.to_csv('./covid-19/report_covid-19.csv')
 ```
 
-```git
-<img src="https://imgur.com/NVYIDDv" alt="img1"/>
-```
+![1](https://user-images.githubusercontent.com/45739569/120112463-59035d00-c14c-11eb-94f7-3b96878b8eeb.PNG)
+
+![2](https://user-images.githubusercontent.com/45739569/120112546-aed80500-c14c-11eb-926e-4b965aefdc94.PNG)
 
 ## Ingestão dos dados do relatório para o Postgres
 
@@ -566,7 +566,9 @@ In [23]:
 # append, adiciona outra tabela se já existir uma tabela de mesmo nome
 report.to_sql('covid_19', con=engine, index=False, if_exists='append')
 ```
-![1](https://user-images.githubusercontent.com/45739569/120112463-59035d00-c14c-11eb-94f7-3b96878b8eeb.PNG)
+
+![3](https://user-images.githubusercontent.com/45739569/120112581-d16a1e00-c14c-11eb-8424-a4a4e8ae555e.PNG)
+
 
 
 ## Ingestão dos dados do relatório para o MySQL
@@ -597,4 +599,4 @@ In [25]:
 report.to_sql('covid_19', con=engine, index=False, if_exists='append')
 ```
 
-![image-20210530130524540](C:\Users\Heliton\AppData\Roaming\Typora\typora-user-images\image-20210530130524540.png)
+![4](https://user-images.githubusercontent.com/45739569/120112599-db8c1c80-c14c-11eb-8c8e-4d1a805b4ac6.PNG)
