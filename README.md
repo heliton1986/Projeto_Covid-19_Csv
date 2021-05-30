@@ -527,6 +527,8 @@ report.to_csv('./covid-19/report_covid-19.csv')
 
 ![img](https://imgur.com/NVYIDDv)
 
+https://imgur.com/NVYIDDv
+
 ## Ingestão dos dados do relatório para o Postgres
 
 In [ ]:
