@@ -566,7 +566,8 @@ In [23]:
 # append, adiciona outra tabela se já existir uma tabela de mesmo nome
 report.to_sql('covid_19', con=engine, index=False, if_exists='append')
 ```
-![img](https://imgur.com/NVYIDDv)
+![1](https://user-images.githubusercontent.com/45739569/120112463-59035d00-c14c-11eb-94f7-3b96878b8eeb.PNG)
+
 
 ## Ingestão dos dados do relatório para o MySQL
 
