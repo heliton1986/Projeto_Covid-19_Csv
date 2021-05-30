@@ -521,9 +521,9 @@ In [20]:
 report.to_csv('./covid-19/report_covid-19.csv')
 ```
 
-![image-20210530125310464](C:\Users\Heliton\AppData\Roaming\Typora\typora-user-images\image-20210530125310464.png)
+![1](C:\Users\Heliton\Documents\GitHub\Projeto_1_Uniasselvi\images\1.PNG)
 
-![image-20210530125405930](C:\Users\Heliton\AppData\Roaming\Typora\typora-user-images\image-20210530125405930.png)
+
 
 ## Ingestão dos dados do relatório para o Postgres
 
