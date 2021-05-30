@@ -2,6 +2,8 @@
 
 ## Dados da COVID-19
 
+### Fonte: https://brasil.io/dataset/covid19/caso/
+
 ### Importar bibliotecas necessárias
 
 In [ ]:
