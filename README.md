@@ -521,7 +521,9 @@ In [20]:
 report.to_csv('./covid-19/report_covid-19.csv')
 ```
 
-![1](C:\Users\Heliton\Documents\GitHub\Projeto_1_Uniasselvi\images\1.PNG)
+```git
+<img src="C:\Users\Heliton\Documents\GitHub\Projeto_1_Uniasselvi\images\1.PNG" alt="img1"/>
+```
 
 
 
