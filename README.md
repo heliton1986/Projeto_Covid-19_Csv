@@ -513,7 +513,7 @@ Out[19]:
 
 10000 rows × 4 columns
 
-## Exportar para um arquivo CSV o dataframe
+## Exportar o Dataframe para um arquivo CSV 
 
 In [20]:
 
