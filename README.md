@@ -4,6 +4,8 @@
 
 ### Fonte: https://brasil.io/dataset/covid19/caso/
 
+![covid_csv_certo](https://github.com/heliton1986/Projeto_Covid-19_Csv/assets/45739569/415e6983-6cfc-4f7e-b06c-1699dc153368)
+
 ### Importar bibliotecas necessárias
 
 In [ ]:
